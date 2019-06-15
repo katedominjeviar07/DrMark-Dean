@@ -1,0 +1,82 @@
+body{
+    background-color:black;
+    
+    
+    }
+    
+.header{
+    background-image:url(http://danielmac.co/wp-content/uploads/2015/01/code.png);
+    height:200px;
+    width:100%;
+    
+    }
+h1{
+    color:red;
+   font-family: 'Fjalla One', sans-serif;
+    text-align:center;
+     margin-top:18px;
+    }
+.item{ 
+    font-family: 'Roboto Condensed', sans-serif;
+    border:black solid 3px;
+    color:white;
+    
+}
+.menu{
+    display:flex;
+    justify-content:space-around;
+    margin-top:10px;
+    border: rgb(15, 219, 212)solid 3px;
+   
+    }
+a{
+    color:white;
+    
+    }
+h2{
+    color:white;
+    }
+.container {
+    
+    display:flex;
+    }
+.right{
+    width:70%;
+    }
+.left{
+    width:30%;
+    }
+p{
+    color:white;
+   }
+.p2{
+    color:white;
+    height:102px;
+    width:700px;
+    margin-left:501px;
+    
+   }
+  .p{
+    color:white;
+    height:102px;
+    margin-left:501px;
+    width:700px;
+    
+   }
+li{
+   color:rgb(15, 219, 212);
+   list-style:square;
+   }
+.footer{
+    width: 100%;
+    background-color:rgb(15, 219, 212);
+    text-align: center;
+    margin-top:101px;
+}
+.footerp{
+    color:black;
+}
+iframe{
+ margin-left:50px;
+ margin-top:12px;
+ }
